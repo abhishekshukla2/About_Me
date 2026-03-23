@@ -23,6 +23,7 @@ li{
   font-family: sans-serif;
 }
 img{
+  position: fixed;
   height: 550px;
   width: 100%;
   position: relative;
@@ -55,4 +56,64 @@ a:hover{
 h1:hover{
   color: aquamarine;
 
+}
+.box{
+  position: relative;
+  height: 100px;
+  width: 100%;
+  color:black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border:ridge;
+  font-size: 24px;
+}
+.step{
+  height: 1500px;
+  width: 100%;
+  position: fixed;
+  position: absolute;
+
+
+}
+.chin{
+  position: absolute;
+  color: white;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+h2{
+  position: absolute;
+  color: white;
+  margin-left: 8%;
+  margin-top: 10%;
+}
+h3{
+  position: absolute;
+  color:white;
+  border: double;
+  margin-left: 40%;
+  margin-top: 55%;
+  font-size: 40px;
+}
+h4{
+  position:absolute;
+  color: white;
+  margin-left: 70%;
+  margin-top: 63%;
+  font-size: 24px;
+}
+.shri{
+  position: absolute;
+  margin-left: 8%;
+  margin-top: 63%;
+  height: 400px;
+  width: 500px;
+}
+.vivo{
+  position: absolute;
+  margin-left: 58%;
+  margin-top: 150px;
+  height: 400px;
+  width: 500px;
 }
