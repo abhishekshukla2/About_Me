@@ -15,6 +15,7 @@
 
 
 
-
+![Image Name](https://github.com/abhishekshukla2/About_Me/blob/037307f17cd7a39e0a1b8a430b1ba5f316a23b71/Screenshot%20(16).png)
 ## ⚡ Fun Fact
 I love coding and learning new technologies every day 🚀
+Proficient in front-end development using HTML, CSS, JavaScript, and React with a focus on responsive design and clean UI.
